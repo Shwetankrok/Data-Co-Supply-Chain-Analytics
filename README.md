@@ -4,6 +4,7 @@ Dataset about Supply Chain used for Analytics and finding insights using Data Vi
 #
 <br><b> Complete Analysis and Visualization can be seen here: https://public.tableau.com/app/profile/shwetank.rokade/viz/DataCoSupplyChainAnalytics/Overall </b></br>
 # Data
+<b><br> Dataset can be downloaded here: https://www.kaggle.com/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis?select=DescriptionDataCoSupplyChain.csv </b></br>
 <br> Dataset is about various supply chains across the world. Data contains Products Ordered, Their Sales, Region, Profit, Loss, Categories of Products etc.</br>
 
 # Task
