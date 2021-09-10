@@ -1,6 +1,8 @@
 # Data-Co-Supply-Chain-Analytics
 Dataset about Supply Chain used for Analytics and finding insights using Data Visualization
 
+#
+<br><b> Complete Analysis and Visualization can be seen here: https://public.tableau.com/app/profile/shwetank.rokade/viz/DataCoSupplyChainAnalytics/Overall </b></br>
 # Data
 <br> Dataset is about various supply chains across the world. Data contains Products Ordered, Their Sales, Region, Profit, Loss, Categories of Products etc.</br>
 
@@ -8,11 +10,11 @@ Dataset about Supply Chain used for Analytics and finding insights using Data Vi
 <br> Task is to perform track of Sales, Profit, Orders, Customers and Products by analyzing them </br>
 
 # Steps
-<br> Track Products: Products with Highest/Lowest Sold, Products with Highest/Lowest Profit with Filters and Parameter.</br>
-<br> Track Sales: Region Wise Sales, Profitable States and Non Profitable States for selling products with Filters and Parameter.</br>
-<br> Track Product Category: Top/ Bottom Product Categories for Different Markets Sales, Profit and Loss States for Product Categories with Filters anmd Parameter</br>
-<br> Track Delivery and Orders: Track Delivery Status across various regions, Order Status  across regions, various Shipping Modes for Delivery </br>
-<br> Track Overall Performance: Track Sales and Profit Overall throughtout the years </br>
+<br> <b>Track Products:</b> Products with Highest/Lowest Sold, Products with Highest/Lowest Profit with Filters and Parameter.</br>
+<br> <b>Track Sales:</b> Region Wise Sales, Profitable States and Non Profitable States for selling products with Filters and Parameter.</br>
+<br> <b>Track Product Category:</b> Top/ Bottom Product Categories for Different Markets Sales, Profit and Loss States for Product Categories with Filters anmd Parameter</br>
+<br> <b>Track Delivery and Orders:</b> Track Delivery Status across various regions, Order Status  across regions, various Shipping Modes for Delivery </br>
+<br> <b>Track Overall Performance:</b> Track Sales and Profit Overall throughtout the years </br>
 
 # Few Visualization
 ![image](https://user-images.githubusercontent.com/55294349/132801932-db8781d3-dfc6-49bf-a808-aad4cfce3c1c.png)
