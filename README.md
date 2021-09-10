@@ -20,5 +20,6 @@ Dataset about Supply Chain used for Analytics and finding insights using Data Vi
 ![image](https://user-images.githubusercontent.com/55294349/132801977-62e1090f-9404-4f09-9787-b39db96fd123.png)
 ![image](https://user-images.githubusercontent.com/55294349/132802031-16fdfa41-c56c-4cdd-aa31-74c52cac5cdd.png)
 ![image](https://user-images.githubusercontent.com/55294349/132802070-014536b9-2100-44ea-aa08-6d445ead898b.png)
+![image](https://user-images.githubusercontent.com/55294349/132802203-ba42d5ff-f742-42a7-8488-202db962d173.png)
 
 
